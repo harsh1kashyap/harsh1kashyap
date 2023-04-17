@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Jha</h1>
 <h3 align="center">A passionate Reactjs developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh1kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="harsh1kashyap" /> </p>
 
 - 🌱 I’m currently learning **MongoDB**
 
