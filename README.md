@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Jha</h1>
-<h3 align="center">A passionate Reactjs developer from India</h3>
+<h3 align="center">A passionate DotNet developer from India</h3>
 
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Core Java and Reactjs**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Core Java, Reactjs, C#, ASP.NET and SQL**
 
 - 📫 How to reach me **harshvardhanjha4@gmail.com**
 
